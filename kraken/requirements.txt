@@ -1,0 +1,5 @@
+python-dotenv
+litestar
+requests
+questdb
+psycopg
